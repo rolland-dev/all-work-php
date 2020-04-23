@@ -1,0 +1,3 @@
+J'apprends l'art du PHP.
+Sur un ordinateur il n'est pas judicieux de taper "del c:\*.*"
+L'information du jour est que le $PHP c'est cool.
