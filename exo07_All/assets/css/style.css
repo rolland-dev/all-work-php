@@ -1,0 +1,6 @@
+.container .jumbotron, form{
+    background-color: lightgray;
+}
+*, html{
+    font-size: 12px;
+}
