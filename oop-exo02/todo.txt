@@ -1,0 +1,8 @@
+A faire:
+--------
+
+
+decouper le fichier en : une classe = un  fichier, plus un fichier main.php
+voir à supprimer les get qui ne sont pas necessaires
+réflichir sur une autre organisation plus optimisée
+...etc.
